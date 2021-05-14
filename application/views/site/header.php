@@ -1,7 +1,7 @@
 <div class="row" style="margin-top: 8px;height: 110px">
 			
 			<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 clearpadding">
-				<a href="#"><img style="max-height: 110px;width: 100%" src="<?php echo base_url(); ?>upload/banner.jpg" alt="" class="img-responsive"></a>
+				<a href="#"><img style="position:absolute; width:100%; height:100%> src="<?php echo base_url(); ?>upload/banner.jpg" alt="" class="img-responsive"></a>
 			</div>
 		</div>
 		<div class="row">
